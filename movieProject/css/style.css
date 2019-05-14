@@ -1,0 +1,42 @@
+body {
+  overflow-x: hidden;
+}
+
+.carousel-item {
+  height: 400px;
+}
+
+#video-play {
+  position: relative;
+  min-height: 200px;
+  background: url("../img/lights.jpg");
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: 0 -300px;
+  text-align: center;
+  color: #fff;
+}
+
+#video-play a {
+  color: #fff;
+}
+
+#page-header {
+  /* height: 200px; */
+  background: url("../img/space.jpg");
+  background-position: 0 -360px;
+  background-attachment: fixed;
+  color: #fff;
+  border-bottom: 1px #eee solid;
+  padding-top: 50px;
+}
+
+#main-footer {
+  background: #000;
+  color: #fff;
+}
+
+a:hover {
+  text-decoration: none;
+  filter: brightness(90%);
+}

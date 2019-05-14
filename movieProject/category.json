@@ -1,0 +1,17 @@
+[
+  {
+    "url": "dewasa",
+    "name": "Dewasa",
+    "deskripsi": "Kategori ini tidak diperbolehkan untuk anak-anak dan remaja, diwajibkan berumur 17 tahun keatas. Karena mengandung materi-materi yang dewasa atau elemen-elemen lain yang dapat dinilai para orang tua terlalu keras."
+  },
+  {
+    "url": "remaja",
+    "name": "Remaja",
+    "deskripsi": "Kategori ini tidak diperbolehkan untuk anak-anak berumur dibawah 13 tahun, diwajibkan berumur diatas 13 tahun"
+  },
+  {
+    "url": "semua_umur",
+    "name": "Semua Umur",
+    "deskripsi": "Kategori ini dapat di saksikan oleh siapapun tanpa terkecuali dikarenakan film tidak mangandung unsur dewasa."
+  }
+]
